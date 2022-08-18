@@ -13,7 +13,7 @@ The following repositories will be created in order to facilitate work on variou
 | 5. | CMPG 323 Project 5 - 35359099 | Reporting & Monitoring |
 #
 ### Project & repository context diagram:
-![Context Diagram](./context_diagram.jpeg)
+![Context Diagram](./context_diagram.jpg)
 ### Branching strategy:
 All repositories will have a **Master** and **Development** branch.
 
@@ -40,3 +40,4 @@ Reference list:
 1. Gitignore Explained, Author: freecodecamp.org, 
 Date Accessed: 2022/08/10 URL: https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/ 
 2. Storing credentials the right way, Author: Abhishek Pathak, Date Accessed: 2022/08/10 URL: https://medium.com/developer-secrets/storing-credentials-the-right-way-78074ae21727
+3. What is a burndown chart, Author: Visual paradigm, Date Accessed: 2022/08/11 URL: https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
